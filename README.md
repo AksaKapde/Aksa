@@ -8,7 +8,7 @@ As we can top 10 cities by average property price and average price_per_sqft
 
 Page 3 overview (Infrastructure analysis property counts with respect to city name drill down through to get better visuals like property type comes in it.
 Rest are total malls, total station, total hostpital, total metro stations nearby cities.
-are there nearby malls and cities with respect to city where we buy property?
+are there nearby malls and cities with respect to city where we buy property and why?
 <img width="1163" height="657" alt="image" src="https://github.com/user-attachments/assets/c38752f7-3885-49d8-ba42-f361feae56d7" />
 
 
